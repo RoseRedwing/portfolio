@@ -1,0 +1,10 @@
+body {
+    background: #01127D;
+    background: linear-gradient(180deg, #01127D, #61F0FF);
+    font-family: 'Chakra Petch', sans-serif;
+    color: #e1fddf;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
